@@ -14,27 +14,26 @@ import './css/Navbar.css';
 
 function NavBar() {
   return (
-    <>
+    <Container>
       <Navbar bg="white" className="contain">
-        <Container>
-          <Navbar.Brand className="d-flex align-items-center">
-            <img
-              src={logo}
-              width="70"
-              height="70"
-              className="d-inline-block align-top me-3"
-              alt="Space Travelers Hub Logo"
-            />
-            <Navbar.Text className="brand-text">Space Travelers&apos; Hub</Navbar.Text>
-          </Navbar.Brand>
-          <Nav className="ms-auto d-flex">
-            <NavLink className="ms-3" to="/">Rockets</NavLink>
-            <NavLink className="mission ms-3" to="missions">Missions</NavLink>
-            <NavLink className="ms-3" to="my profile">My Profile</NavLink>
-          </Nav>
-        </Container>
+        <Navbar.Brand className="d-flex align-items-center">
+          <img
+            src={logo}
+            width="70"
+            height="70"
+            className="d-inline-block align-top me-3"
+            alt="Space Travelers Hub Logo"
+          />
+          <Navbar.Text className="brand-text">Space Travelers&apos; Hub</Navbar.Text>
+        </Navbar.Brand>
+        <Nav className="ms-auto d-flex">
+          <NavLink className="ms-3" to="/">Rockets</NavLink>
+          <NavLink className="mission ms-3" to="missions">Missions</NavLink>
+          <NavLink className="ms-3" to="my profile">My Profile</NavLink>
+        </Nav>
       </Navbar>
-    </>
+      <hr />
+    </Container>
   );
 }
 

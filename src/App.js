@@ -13,7 +13,6 @@ function App() {
         <Route path="missions" element={<Missions />} />
         <Route path="my profile" element={<Profile />} />
       </Route>
-
     </Routes>
   );
 }
