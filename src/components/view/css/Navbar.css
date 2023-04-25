@@ -4,12 +4,15 @@
  * Created: 4/24/23
  * Author: Abdullah Al Mamun <mamun1214@gmail.com>
  ********************************************/
+
 .brand-text {
+  font-size: 30px;
   color: black;
   cursor: pointer;
 }
 
 a {
+  font-size: 18px;
   color: #0290ff;
   text-decoration: none;
 }

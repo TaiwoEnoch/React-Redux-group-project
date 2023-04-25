@@ -1,13 +1,20 @@
-/** ****************************************
- * Project: react-redux-group-project
- * File: Rockets.js
- * Created: 4/24/23
- * Author: Abdullah Al Mamun <mamun1214@gmail.com>
- ****************************************** */
 import React from 'react';
+import RocketItem from './RocketItems';
 
-const Rockets = () => (
-  <div />
-);
+function Rockets() {
+  return (
+    <div className="rocket-holder">
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+      <RocketItem />
+    </div>
+  );
+}
 
 export default Rockets;

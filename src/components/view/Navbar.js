@@ -15,13 +15,13 @@ import './css/Navbar.css';
 function NavBar() {
   return (
     <>
-      <Navbar bg="white">
+      <Navbar bg="white" className="contain">
         <Container>
           <Navbar.Brand className="d-flex align-items-center">
             <img
               src={logo}
-              width="60"
-              height="60"
+              width="70"
+              height="70"
               className="d-inline-block align-top me-3"
               alt="Space Travelers Hub Logo"
             />
