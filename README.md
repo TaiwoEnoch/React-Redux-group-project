@@ -117,11 +117,19 @@ To run tests, run the following command:
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Abdullah AL mamun**
+**Enoch Taiwo**
+**Abdullah AL mamun**
+
+
+- GitHub: [@TaiwoEnoch](https://github.com/TaiwoEnoch)
+- Twitter: [@EnochTaiwo](https://twitter.com/taiwoenoch4)
+- LinkedIn: [@EnochTaiwo](https://www.linkedin.com/in/taiwo01/)
+
 
 - GitHub: [@dev-mamun](https://github.com/dev-mamun)
 - Twitter: [@CoderKnight](https://twitter.com/CoderKnight)
 - LinkedIn: [Mamun](https://www.linkedin.com/in/dev-mamun/)
+
 
 <!-- FUTURE FEATURES -->
 
@@ -144,10 +152,6 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Give a ⭐️ if you like this project!
-
-> If you like this project feel comfortable to endorse the author.
-> You can contact the author via [Twitter](https://twitter.com/CoderKnight)
-> or [Linkedin](https://www.linkedin.com/in/dev-mamun/) or directly message at mamun1214@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
