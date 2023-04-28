@@ -1,9 +1,3 @@
-/** ****************************************
- * Project: react-redux-group-project
- * File: Profile.test.js
- * Created: 4/28/23
- * Author: Abdullah Al Mamun <mamun1214@gmail.com>
- ****************************************** */
 import React from 'react';
 import { render } from '@testing-library/react';
 import { useSelector } from 'react-redux';
