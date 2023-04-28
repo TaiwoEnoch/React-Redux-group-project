@@ -19,7 +19,7 @@ const RocketItem = ({
           <img src={img} alt="placeholder" />
         </div>
         <div className="detail-container">
-          <h2>{name}</h2>
+          <h2><b>{name}</b></h2>
           <p>
             {reserved && <span className="reservation">Reserved</span>}
             {description}

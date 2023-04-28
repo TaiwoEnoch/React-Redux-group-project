@@ -37,21 +37,23 @@
 }
 
 .reservebtn {
-  padding: 5px 10px;
+  padding: 10px;
   background-color: #007bff;
   color: white;
-  border: none;
-  border-radius: 3px;
-  font-size: 10px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  font-size: 20px;
+  text-shadow: 3px 2px 3px rgba(38, 38, 38, 0.2);
 }
 
 .cancelbtn {
-  padding: 5px 10px;
+  padding: 10px;
   background: transparent;
-  color: #adb2b6;
-  border: 2px solid #adb2b6;
-  border-radius: 3px;
-  font-size: 10px;
+  color: #757575;
+  border: 1px solid #757575;
+  border-radius: 5px;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px rgba(38, 38, 38, 0.2);
 }
 
 .reservation {
@@ -59,7 +61,7 @@
   color: white;
   padding: 4px 10px;
   border: none;
-  border-radius: 3px;
-  font-size: 12px;
+  border-radius: 5px;
   margin: 0.5rem;
+  font-weight: bold;
 }
