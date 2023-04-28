@@ -15,13 +15,12 @@
 
 [//]: # (  - [Deployment]&#40;#triangular_flag_on_post-deployment&#41;)
 
-- [👥 Author](#authors)
+- [👥 Authors](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Available Scripts](#available-scripts)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -115,17 +114,14 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="author"></a>
 
 **Enoch Taiwo**
-**Abdullah AL mamun**
-
-
 - GitHub: [@TaiwoEnoch](https://github.com/TaiwoEnoch)
 - Twitter: [@EnochTaiwo](https://twitter.com/taiwoenoch4)
 - LinkedIn: [@EnochTaiwo](https://www.linkedin.com/in/taiwo01/)
 
-
+**Abdullah AL mamun**
 - GitHub: [@dev-mamun](https://github.com/dev-mamun)
 - Twitter: [@CoderKnight](https://twitter.com/CoderKnight)
 - LinkedIn: [Mamun](https://www.linkedin.com/in/dev-mamun/)
