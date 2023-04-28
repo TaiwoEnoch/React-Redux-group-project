@@ -33,8 +33,8 @@ const Missions = () => {
                 {mission.reserved && (
                   <>
                     <td className="align-middle">
-                      <Button variant="primary" size="sm" className="not-member">
-                        ACTIVE MEMBER
+                      <Button variant="info" size="sm" className="not-member text-white">
+                        <strong>ACTIVE MEMBER</strong>
                       </Button>
                     </td>
                     <td className="align-middle">
