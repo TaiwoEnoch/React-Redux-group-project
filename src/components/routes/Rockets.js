@@ -7,7 +7,6 @@ function Rockets() {
   const dispatch = useDispatch();
   const rocketsData = useSelector((store) => store.rockets);
   const fetch = useRef(true);
-
   useEffect(() => {
     if (fetch.current) {
       if (rocketsData.length === 0) {

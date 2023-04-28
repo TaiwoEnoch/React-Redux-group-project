@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Missions component Missions snapshots match 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="table-responsive"
+  >
+    <table
+      className="table table-striped table-bordered table-hover"
+    >
+      <thead>
+        <tr
+          className="table-success"
+        >
+          <th
+            scope="col"
+          >
+            Missions
+          </th>
+          <th
+            scope="col"
+          >
+            Description
+          </th>
+          <th
+            scope="col"
+          >
+            Status
+          </th>
+          <th
+            aria-label="none"
+          />
+        </tr>
+      </thead>
+      <tbody
+        className="table-group-divider"
+      >
+        <tr>
+          <td>
+            Mission 1
+          </td>
+          <td>
+            Mission 1 Description
+          </td>
+          <td
+            className="align-middle"
+          >
+            <button
+              className="not-member btn btn-secondary btn-sm"
+              disabled={false}
+              type="button"
+            >
+              NOT A MEMBER
+            </button>
+          </td>
+          <td
+            className="align-middle"
+          >
+            <button
+              className="join-mission btn btn-outline-secondary btn-sm"
+              disabled={false}
+              onClick={[Function]}
+              type="button"
+            >
+              Join Mission
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Mission 2
+          </td>
+          <td>
+            Mission 2 Description
+          </td>
+          <td
+            className="align-middle"
+          >
+            <button
+              className="not-member btn btn-primary btn-sm"
+              disabled={false}
+              type="button"
+            >
+              ACTIVE MEMBER
+            </button>
+          </td>
+          <td
+            className="align-middle"
+          >
+            <button
+              className="join-mission btn btn-outline-danger btn-sm"
+              disabled={false}
+              onClick={[Function]}
+              type="button"
+            >
+              Leave Mission
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
