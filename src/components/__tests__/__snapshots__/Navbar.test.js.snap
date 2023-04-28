@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar Navbar snapshots match 1`] = `
+<div
+  className="container"
+>
+  <nav
+    className="contain navbar navbar-expand navbar-light bg-white"
+  >
+    <span
+      className="d-flex align-items-center navbar-brand"
+    >
+      <img
+        alt="Space Travelers Hub Logo"
+        className="d-inline-block align-top me-3"
+        height="70"
+        src="planet.png"
+        width="70"
+      />
+      <span
+        className="brand-text navbar-text"
+      >
+        Space Travelers Hub
+      </span>
+    </span>
+    <div
+      className="ms-auto d-flex navbar-nav"
+      onKeyDown={[Function]}
+    >
+      <a
+        aria-current="page"
+        className="ms-3 active"
+        href="/"
+        onClick={[Function]}
+      >
+        Rockets
+      </a>
+      <a
+        className="mission ms-3"
+        href="/missions"
+        onClick={[Function]}
+      >
+        Missions
+      </a>
+      <a
+        className="ms-3"
+        href="/my profile"
+        onClick={[Function]}
+      >
+        My Profile
+      </a>
+    </div>
+  </nav>
+  <hr />
+</div>
+`;

@@ -24,7 +24,7 @@ function NavBar() {
             className="d-inline-block align-top me-3"
             alt="Space Travelers Hub Logo"
           />
-          <Navbar.Text className="brand-text">Space Travelers&apos; Hub</Navbar.Text>
+          <Navbar.Text className="brand-text">Space Travelers Hub</Navbar.Text>
         </Navbar.Brand>
         <Nav className="ms-auto d-flex">
           <NavLink className="ms-3" to="/">Rockets</NavLink>
