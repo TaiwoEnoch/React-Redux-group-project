@@ -1,0 +1,28 @@
+/********************************************
+ * Project: react-redux-group-project
+ * File: Navbar.css
+ * Created: 4/24/23
+ * Author: Abdullah Al Mamun <mamun1214@gmail.com>
+ ********************************************/
+
+.brand-text {
+  font-size: 30px;
+  color: black;
+  cursor: pointer;
+}
+
+a {
+  font-size: 18px;
+  color: #0290ff;
+  text-decoration: none;
+}
+
+.active {
+  text-decoration: underline;
+  color: #0290ff;
+}
+
+.mission {
+  padding-right: 15px;
+  border-right: 1px solid gray;
+}

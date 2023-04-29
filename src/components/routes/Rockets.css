@@ -1,0 +1,67 @@
+.rocket-holder {
+  padding: 2rem 0;
+  margin: 0 7.5rem 0 7.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.rocket {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  gap: 2rem;
+}
+
+.image-container {
+  width: 280px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.detail-container p {
+  font-size: 15px;
+}
+
+.reservebtn {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  font-size: 20px;
+  text-shadow: 3px 2px 3px rgba(38, 38, 38, 0.2);
+}
+
+.cancelbtn {
+  padding: 10px;
+  background: transparent;
+  color: #757575;
+  border: 1px solid #757575;
+  border-radius: 5px;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 rgba(38, 38, 38, 0.2);
+}
+
+.reservation {
+  background-color: #18a2b8;
+  color: white;
+  padding: 4px 10px;
+  border: none;
+  border-radius: 5px;
+  margin: 0.5rem;
+  font-weight: bold;
+}

@@ -1,0 +1,44 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 7rem 0 7rem;
+  padding: 2rem 2rem;
+}
+
+.missions,
+.rockets {
+  width: 48%;
+}
+
+.mission-main,
+.rocket-main {
+  font-weight: 600;
+}
+
+.missions h3,
+.rockets h3 {
+  text-transform: capitalize;
+}
+
+.missions ul,
+.rockets ul {
+  display: block;
+  border: 1px solid rgb(74 73 73 / 25%);
+  padding: 0;
+  border-radius: 5px;
+}
+
+.missions ul li,
+.rockets ul li {
+  list-style: none;
+  font-size: 1rem;
+  padding: 10px;
+  border-bottom: 1px solid rgb(74 73 73 / 25%);
+  height: 50px;
+}
+
+.missions ul li:last-child,
+.rockets ul li:last-child {
+  border-bottom: 0;
+}
